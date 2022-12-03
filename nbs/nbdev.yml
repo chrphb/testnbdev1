@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testnbdev1"
+  site-url: "https://chrphb.github.io/testnbdev1"
+  description: "Just an empty repo"
+  repo-branch: main
+  repo-url: "https://github.com/chrphb/testnbdev1"
